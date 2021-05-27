@@ -1,9 +1,7 @@
 #page {
 background-color: black;
 text-align: center;
-margin: 8px;
-border: 20px;
-padding: 8px;
+padding: 1px;
 }
 
 #heading1 {
@@ -14,13 +12,10 @@ padding: 8px;
     text-align: center;
    
 }
-
-#link {
+a:link {
     color: aquamarine;
     font-size: 16px;
 }
-
-
 
 #heading2 {
     font-family: Verdana;
