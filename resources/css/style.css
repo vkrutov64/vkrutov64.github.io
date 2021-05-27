@@ -1,0 +1,46 @@
+#page {
+background-color: black;
+text-align: center;
+margin: 8px;
+border: 20px;
+padding: 8px;
+}
+
+#heading1 {
+    font-family: verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+   
+}
+
+#link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+
+
+#heading2 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+#description {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
+#phone {
+    margin: 8px;
+    border: 20px;
+    padding: 8px;
+}
+#footer{
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
